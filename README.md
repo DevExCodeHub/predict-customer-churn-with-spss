@@ -136,7 +136,7 @@ Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 | [<img src="https://avatars2.githubusercontent.com/u/9212117?s=400&u=e8e8f322cb3d83a5442fe372c64884b7ffa1ee3c&v=4" width="100px;"/><br /><sub><b>Deema Alamer</b></sub>](https://twitter.com/deemaalamer)<br /> [📖](#Contributors "Documentation") [✅](#Contributors "Tutorials")
-| :---: | :---: |
+| :---: |
 
 This project follows the [all-contributors][all-contributors] specification.
 Contributions of any kind are welcome!
