@@ -1,4 +1,4 @@
-# IBM-SPSS-Modeler-Create-a-predictive-model-to-predict-customer-churn
+# Predict Customer Churn With SPSS Modeler
 Get experience with IBM SPSS Modeler by creating a decision-tree machine-learning model to evaluate the risk that a customer might leave your service. This is a set by step tutorial. 
 
 ### Duration: 15 minutes
